@@ -18,7 +18,7 @@ Triangulo t = new Triangulo(lado1, lado2, lado3);
 string tipo = t.Tipo;
 double perimetro = t.CalcularPerimetro();
 
-Console.WriteLine("O perímerotro do triângulo é " + perimetro);
+Console.WriteLine("O perímetro do triângulo é " + perimetro);
 Console.WriteLine("O tipo do triângulo é " + tipo);
 
 
